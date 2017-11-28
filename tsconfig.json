@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "target": "es5",        // to compiler our code to es5
+        "module": "commonjs",   // to make webpake under the commonjs
+        "sourceMap": true       // easy to debug
+    }
+}
